@@ -3,7 +3,7 @@
 JavaSE简介<br/>
 JavaSE开发环境<br/>
 JavaSE学习资料<br/>
-视频
-博客
-书籍
-练习
+视频<br/>
+博客<br/>
+书籍<br/>
+练习<br/>
