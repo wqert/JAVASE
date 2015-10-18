@@ -3,8 +3,20 @@
     JavaEE 是Java后端开发技术，需要有扎实的JavaSE基础
     Android 手机开发应用开发技术，也需要有扎实的JavaSE基础
 
-### 学好JavaSE很重要哦，这是编辑这篇文档的目的
+## 文档使用规则
 
+    1.什么是Java，对Java有一个大致的了解
+    2.搭建自己的Java开发环境
+    3.进入学习网站，挑选一个自己喜欢的网站开始视频或者实验的学习
+    4.挑选一本推荐的书籍开始学习
+
+## 项目使用规则
+
+    1.fork一份项目到自己的repository中
+    2.clone 一份项目到自己的本地
+    3.将项目加入到自己的workspace中，并添加代码
+    4.每天的学习结束之后，将代码commit到本地版本仓库中，并且push到远程仓库中
+    
 --------------------------------------------------------------------------------
 
 ## <a name="index"/>目录
@@ -28,6 +40,7 @@
   - [Java编程思想 （第4版）](http://book.douban.com/subject/2130190/)
   - [Java核心技术·卷1：基础知识（原书第9版）](http://book.douban.com/subject/25762168/)
 - wiki
+
   - [Java 基础概述 极客学院wiki](http://wiki.jikexueyuan.com/project/java/overview.html)
 
 > Author： [魏来](http://ayweilai.com)<br>
