@@ -22,7 +22,11 @@
   - [极客学院](http://www.jikexueyuan.com/path/java/ "Java实战路径图")
   - [实验楼](https://www.shiyanlou.com/courses/18 "Java实验")
 
-- [书籍](#book)
+- 书籍
+  - [疯狂Java讲义 (第三版)](http://book.douban.com/subject/25959184/)
+  - [Head First Java（第二版·中文版）](http://book.douban.com/subject/2000732/)
+  - [Java编程思想 （第4版）](http://book.douban.com/subject/2130190/)
+  - [Java核心技术·卷1：基础知识（原书第9版）](http://book.douban.com/subject/25762168/)
 - [博客](#blog)
 
 > Author： [魏来](http://ayweilai.com)<br>
