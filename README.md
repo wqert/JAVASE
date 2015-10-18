@@ -8,9 +8,9 @@ JavaSE Java基础
 
 ## <a name="index"/>目录
 * 开发环境搭建
-    * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK下载地址")
-    * [Eclipse](http://www.eclipse.org/downloads/ "Eclipse下载地址")
-    * [IDEA](http://www.jetbrains.com/idea/ "IDEA下载地址")
+    * [JDK - Java Development Kit Java开发工具包 ](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK下载地址")
+    * [Eclipse - 最经典的Java开发IDE](http://www.eclipse.org/downloads/ "Eclipse下载地址")
+    * [IDEA - 最好用的Java开发IDE](http://www.jetbrains.com/idea/ "IDEA下载地址")
 * [视频](#video)
     * [慕课网](http://www.imooc.com/view/85 "Java基础实战1")
     * [极客学院](http://www.jikexueyuan.com/path/java/ "Java实战路径图")
