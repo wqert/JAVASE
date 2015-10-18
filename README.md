@@ -7,11 +7,6 @@
 
 --------------------------------------------------------------------------------
 
-### Author：[魏来](http://ayweilai.com)
-### GitHub：http://github.com/FutureWL
-### E-mail：624263934@qq.com
-============================
-
 ## <a name="index"/>目录
 - 什么是Java
   - [Java百度百科](http://baike.baidu.com/link?url=oDDRs-vwo2HgC9MCNw5isr_j7eb6m6DLwt3tmCYpOIcWMKKcHuGij0AN9e5oyqtraVmeoFhLTPQGcUe1GHdqEfuritM6LdT-3TwecyZ4Z17)
@@ -29,3 +24,8 @@
 
 - [书籍](#book)
 - [博客](#blog)
+
+> Author： [魏来](http://ayweilai.com)<br>
+> GitHub： http://github.com/FutureWL<br>
+> E-mail： 624263934@qq.com<br>
+> version：1.0
