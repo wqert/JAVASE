@@ -16,10 +16,10 @@
     2.clone 一份项目到自己的本地
     3.将项目加入到自己的workspace中，并添加代码
     4.每天的学习结束之后，将代码commit到本地版本仓库中，并且push到远程仓库中
-    
+
 --------------------------------------------------------------------------------
 
-## <a name="index"/>目录
+## 目录
 - 什么是Java
   - [Java百度百科](http://baike.baidu.com/link?url=oDDRs-vwo2HgC9MCNw5isr_j7eb6m6DLwt3tmCYpOIcWMKKcHuGij0AN9e5oyqtraVmeoFhLTPQGcUe1GHdqEfuritM6LdT-3TwecyZ4Z17)
   - [菜鸟教程 Java简介](http://www.runoob.com/java/java-intro.html)
