@@ -5,8 +5,10 @@ JAVASE - Java基础学习
     JavaSE简介
     JavaSE开发环境
     JavaSE学习资料
-    视频
-    [极客学院](http://jikexueyuan.com "极客学院")
+    [视频](http://www.baidu.com)
+    [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示") 
+    [我的博客][id]  
+[id]:http://blog.csdn.net/guodongxiaren "悬停显示"   
     博客
     书籍
     练习
