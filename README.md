@@ -27,7 +27,8 @@
   - [Head First Java（第二版·中文版）](http://book.douban.com/subject/2000732/)
   - [Java编程思想 （第4版）](http://book.douban.com/subject/2130190/)
   - [Java核心技术·卷1：基础知识（原书第9版）](http://book.douban.com/subject/25762168/)
-- [博客](#blog)
+- wiki
+  - [Java 基础概述 极客学院wiki](http://wiki.jikexueyuan.com/project/java/overview.html)
 
 > Author： [魏来](http://ayweilai.com)<br>
 > GitHub： http://github.com/FutureWL<br>
