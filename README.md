@@ -3,8 +3,9 @@ JavaSE 其实就是最基础的Java 学号JavaSE是为了更好地学习JavaEE (
 
 --------------------------------------------------------------------------------
 
-## Author：[魏来](https://github.com/FutureWL)
-## E-mail：624263934@qq.com
+### Author：[魏来](http://ayweilai.com)
+### GitHub：http://github.com/FutureWL
+### E-mail：624263934@qq.com
 ============================
 
 ## <a name="index"/>目录
