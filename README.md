@@ -30,9 +30,9 @@
   - [IDEA - 最好用的Java开发IDE](http://www.jetbrains.com/idea/ "IDEA下载地址")
 
 - 学习网站
-  - [慕课网](http://www.imooc.com/view/85 "Java基础实战1")
-  - [极客学院](http://www.jikexueyuan.com/path/java/ "Java实战路径图")
-  - [实验楼](https://www.shiyanlou.com/courses/18 "Java实验")
+  - [慕课网 视频](http://www.imooc.com/view/85 "Java基础实战1")
+  - [极客学院 视频](http://www.jikexueyuan.com/path/java/ "Java实战路径图")
+  - [实验楼 实验](https://www.shiyanlou.com/courses/18 "Java实验")
 
 - 书籍
   - [疯狂Java讲义 (第三版)](http://book.douban.com/subject/25959184/)
